@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jillian Desmond Digital Resume</title>
+	<link rel="icon" type="image/x-icon" href="C:\Users\desmondj2\Desktop\resume site\icon.jpg">
+<style>
+	body{background-color:lightsteelblue;text-align:left}
+	h1 {color:#b38b6d;font-size:300%;text-align:center;}
+	h2 {color:#b38b6d;}
+	table, th, td{border:1px solid black; border-collapse: collapse;}
+	a:link {
+		color: #b38b6d;
+		background-color: transparent;
+		text-decoration: none;
+	}
+
+	a:visited {
+		color: #b38b6d;
+		background-color: transparent;
+		text-decoration: none;
+	}
+
+	a:hover {
+		color: white;
+		background-color: transparent;
+		text-decoration: underline;
+	}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+	<h1><img src="C:\Users\desmondj2\Desktop\resume site\icon2.jpg" alt="Flower Logo" width="100" height="100" align="left">
+	Jillian Desmond<img src="C:\Users\desmondj2\Desktop\resume site\icon2.jpg" alt="Flower Logo" width="100" height="100" align="right"></h1>
+	<p style="color:#b38b6d;font-size:200%;text-align:center;">My digital resume.</p>
+	<hr>
+
+<table class="center"; style = "width:100%; color:white; border: 0px;"> 
+<tr style="border: 0px;">
+	<th style="border: 0px;padding-left: 100px;"><a href="home.html" target="_self">Home</a></th>
+	<th style="border: 0px;"><a href="education.html" target="_self">Education</a></th>
+	<th style="border: 0px;"><a href="projExp.html" target="_self">Skills and Experience</a></th>
+	<th style="border: 0px;"><a href="references.html" target="_self">References</a></th>
+</tr> </table>
+
+	<h2 style="padding-left: 50px;"><img src="C:\Users\desmondj2\Desktop\resume site\profilePicture.jpg" alt="myself" width="333" height="683" style="float:left; padding-right: 50px;">About Me</h2>
+	<p>My name is Jillian Desmond, I'm a junior Computer Science major and Computer Networking minor.<br>
+	I'm interested in Artificial Intelligence and Cybersecurity. On campus, I work as an Admissions Ambassador. <br>
+	As a woman in a male dominated field and University, I'm passionate about getting more women interested in STEM <br>
+	and that is why I work as a Club Facilitator for Girls Who Code and mentor female freshman for the Women's Council.</p>
+	<p>I first became interested in programming in eighth grade. While working on a project about robotic engineering,<br>
+	I read about a robot that uses Artificial Intelligence to detect human emotion from facial mapping. I was<br>
+	obsessed with imaging and Artificial Intelligence. In college, I started playing video games and became<br>
+	fascinated by making my own. Luckily, Wentworth offers a course "AI for Gaming". I'm excited to utilize my <br>
+	co op semesters to experience different applications of my major and narrow my focus.</p>
+
+	<h2>Contact Me<img src="C:\Users\desmondj2\Desktop\resume site\wentworth-logo.png" alt="WIT Logo" width="550" height="136" style="float:right;"></h2>
+		<p></p>
+		<p><b>Phone:</b> (603) 566-8625<br>
+		<b>Email:</b> (school, preferred) <a href="mailto:desmondj2@wit.edu">desmondj2@wit.edu</a><br>
+		         (personal) <a href="mailto:jillian3734@gmail.com">jillian3734@gmail.com</a><br>
+		<b>Address:</b> 525 Huntington Ave, Boston MA 02115
+		<img src="C:\Users\desmondj2\Desktop\resume site\GWC-logo.png" alt="GWC Logo" width="400" height="176" align="left" vspace="30"></p>
+
+</body>
+</html>
