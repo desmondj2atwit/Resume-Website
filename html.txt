@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jillian Desmond Digital Resume</title>
+	<link rel="icon" type="image/x-icon" href="C:\Users\desmondj2\Desktop\resume site\icon.jpg">
+<style>
+	body{background-color:lightsteelblue;text-align:left}
+	h1 {color:#b38b6d;font-size:300%;text-align:center;}
+	h2 {color:#b38b6d;}
+	table, th, td{border:1px solid black; border-collapse: collapse;}
+</style>
+</head>
+
+<body>
+
+	<h1>Jillian Desmond</h1>
+	<p style="color:#b38b6d;font-size:200%;text-align:center;">My digital resume.</p>
+	<hr>
+
+<table class="center"; style = "width:100%; color:white; border: 0px;"> 
+<tr style="border: 0px;">
+	<th style="border: 0px;padding-left: 100px;"><a href="home.html" target="_self">Home</a></th>
+	<th style="border: 0px;"><a href="education.html" target="_self">Education</a></th>
+	<th style="border: 0px;"><a href="projExp.html" target="_self">Projects and Experience</a></th>
+	<th style="border: 0px;"><a href="references.html" target="_self">References</a></th>
+</tr> </table>
+
+	<h2>Contact Me</h2>
+	<p>
+		<b>Phone:</b> (603) 566-8625<br>
+		<b>Email:</b> (school, preferred) <a href="mailto:desmondj2@wit.edu">desmondj2@wit.edu</a><br>
+		         (personal) <a href="mailto:jillian3734@gmail.com">jillian3734@gmail.com</a><br>
+		<b>Address:</b> 525 Huntington Ave, Boston MA 02115
+	</p>
+
+	<h2>Education</h2>
+	<p>
+		<a href = "https://catalog.wit.edu/computing-data-science/computer-science-networking/computer-science-bs/#programdetailstext" target="_blank">
+		<img src="C:\Users\desmondj2\Desktop\resume site\wentworth-logo.png" alt="WIT Logo" width="550" height="136" style="float:right;"></a>
+		<b>Current:</b> Wentworth Institute of Technology, Bachelor's of Science Computer Science<br>
+		<i>Predicted Graduation: August 2024</i><br>
+		Accomplishments: 3.92 GPA, Dean's List 4/4 semesters</p>
+		<p Style="text-align:left;"><b>Previous:</b> Alvirne High School<br> <i>Graduated: May 2020</i><br>
+		Cumulative GPA 4.06
+	</p>
+
+	<h2>My Work</h2>
+	<p><a href="https://github.com/" target="_blank">My GitHub Profile</a></p>
+
+	<h2>Experience</h2>
+	<ul>
+	   <li>Admissions Ambassador</li>
+	   <li>Orientation Leader</li>
+	   <li>Girls Who Code Facilitator</li>
+	</ul>
+
+	<h2>References</h2>
+	<table style="width:100%;">
+		<tr>
+			<th>Reference</th>
+			<th>Position</th>
+			<th>Relation</th>
+			<th>Contact</th>
+		</tr>
+		<tr>
+			<td>Emily Casey</td>
+			<td>Director of Admissions,<br>Wentworth Institute of Technology</td>
+			<td>Current work study employer</td>
+			<td>(603)566-8625<br><a href="mailto:caseye2@wit.edu">caseye2@wit.edu</a></td>
+		</tr>
+		<tr>
+			<td>Brian Quigley</td>
+			<td>Director of Center for Student Life,<br>Wentworth Institute of Technology</td>
+			<td>Recurring work study employer</td>
+			<td>(603)566-8625<br><a href="mailto:quigleyb@wit.edu">quigleyb@wit.edu</a></td>
+		</tr>
+		<tr>
+			<td>Frank Kreimendahl</td>
+			<td>Professor, School of Computing and Data Science,<br>Wentworth Institute of Technology</td>
+			<td>Former Professor, <br> Computer Organization, Algorithms</td>
+			<td>(603)566-8625<br><a href="mailto:kreimendahlf@wit.edu">kreimendahlf@wit.edu</a></td>
+		</tr>
+		<tr>
+			<td>Jones</td>
+			<td>Professor, School of Computing and Data Science,<br>Wentworth Institute of Technology</td>
+			<td>Former Professor, <br> Data Structures</td>
+			<td>(603)566-8625<br><a href="mailto:yuj6@wit.edu">yuj6@wit.edu</a></td>
+		</tr>
+	</table>
+
+</body>
+</html>
